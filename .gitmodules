@@ -1,3 +1,4 @@
 [submodule "Source/submodule"]
 	path = Source/submodule
 	url = https://github.com/arronshah/OffsetMode.git
+	branch = main
